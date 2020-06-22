@@ -1,5 +1,5 @@
 # Getting Started
-Please see <a href=''> the adversarial data programming website page</a> to make yourself comfortable with the adversarial data programming concept. Here, we will do the following:
+Please see <a href=''> the adversarial data programming website page</a> to make yourself comfortable with the adversarial data programming concept. We will train a basic generative adversarial network (GAN) on MNIST digit dataset - using labeling functions. We will do the following steps:
 1. Model a basic generative adversarial network with linear layers
 2. We will formalise our Labeling Functions Block using a labeling function based on Kmeans clustering
 3. We will train the model end-to-end on MNIST dataset
@@ -9,5 +9,8 @@ You need to install:
 2. Python 3.6+
 3. matplotlib
 4. torchvision
-5. install kmeans of pytorch using the command `pip install kmeans-pytorch'
+5. install kmeans of pytorch using the command ``pip install kmeans-pytorch''
+6. pylab
+# Results
+The generated images are stored in ``samples'' folder. However, you can see the labels after every iteration
 
