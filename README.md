@@ -13,4 +13,6 @@ You need to install:
 6. pylab
 # Results
 The generated images are stored in ``samples'' folder. However, you can see the labels after every iteration
+# Labeling Functions
+You can see <a href='https://github.com/HazyResearch/ukb-cardiac-mri/blob/master/ukb/weak_supervision/coral/tutorials/Intro_Tutorial.ipynb'>the tutorial</a> to write labeling functions for real dataset.
 
