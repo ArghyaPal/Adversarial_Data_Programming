@@ -12,11 +12,11 @@ You need to install:
 5. install kmeans of pytorch using the command ``pip install kmeans-pytorch''
 6. pylab
 # Results
-The generated images are stored in ``samples'' folder. However, you can see the labels after every iteration
+The generated images are stored in <>samples<> folder. However, you can see the labels after every iteration
 # Labeling Functions
 You can see <a href='https://github.com/HazyResearch/ukb-cardiac-mri/blob/master/ukb/weak_supervision/coral/tutorials/Intro_Tutorial.ipynb'>the tutorial</a> to write labeling functions for real dataset.
 # Citation
-If you find the code useful, please cite the paper:
+If you find the code useful, please cite the paper:<br>
 ``@InProceedings{Pal_2018_CVPR,
 author = {Pal, Arghya and Balasubramanian, Vineeth N.},
 title = {Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data},
