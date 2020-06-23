@@ -15,4 +15,13 @@ You need to install:
 The generated images are stored in ``samples'' folder. However, you can see the labels after every iteration
 # Labeling Functions
 You can see <a href='https://github.com/HazyResearch/ukb-cardiac-mri/blob/master/ukb/weak_supervision/coral/tutorials/Intro_Tutorial.ipynb'>the tutorial</a> to write labeling functions for real dataset.
+# Citation
+If you find the code useful, please cite the paper:
+``@InProceedings{Pal_2018_CVPR,
+author = {Pal, Arghya and Balasubramanian, Vineeth N.},
+title = {Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
+}''
 
