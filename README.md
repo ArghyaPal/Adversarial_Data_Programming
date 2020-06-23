@@ -1,5 +1,5 @@
 # Getting Started
-Please see <a href=''> the adversarial data programming website page</a> to make yourself comfortable with the adversarial data programming concept. We will train a basic generative adversarial network (GAN) on MNIST digit dataset - using labeling functions. We will do the following steps:
+Please see <a href='https://arghyapal.github.io/ItsArghyaPal.io/minimalist-portfolio-master/ADP_Project_Page.html'> the adversarial data programming website page</a> to make yourself comfortable with the adversarial data programming concept. We will train a basic generative adversarial network (GAN) on MNIST digit dataset - using labeling functions. We will do the following steps:
 1. Model a basic generative adversarial network with linear layers
 2. We will formalise our Labeling Functions Block using a labeling function based on Kmeans clustering
 3. We will train the model end-to-end on MNIST dataset
