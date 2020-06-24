@@ -9,19 +9,21 @@ You need to install:
 2. Python 3.6+
 3. matplotlib
 4. torchvision
-5. install kmeans of pytorch using the command ``pip install kmeans-pytorch''
+5. install kmeans of pytorch using the command <code>pip install kmeans-pytorch</code>
 6. pylab
 # Results
-The generated images are stored in <>samples<> folder. However, you can see the labels after every iteration
-# Labeling Functions
+The generated images are stored in <code>samples</code> folder. However, you can see the labels after every iteration
+# Acknowledgement
+The GAN code is based on . And we thank <code>kmeans-pytorch</code> for providing the kmeans unsupervised clustering code.
+# How to write labeling functions for real image datasets
 You can see <a href='https://github.com/HazyResearch/ukb-cardiac-mri/blob/master/ukb/weak_supervision/coral/tutorials/Intro_Tutorial.ipynb'>the tutorial</a> to write labeling functions for real dataset.
 # Citation
 If you find the code useful, please cite the paper:<br>
-``@InProceedings{Pal_2018_CVPR,
+<code>@InProceedings{Pal_2018_CVPR,
 author = {Pal, Arghya and Balasubramanian, Vineeth N.},
 title = {Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2018}
-}''
+}</code>
 
